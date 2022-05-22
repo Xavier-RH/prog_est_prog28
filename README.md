@@ -19,10 +19,12 @@ Presenta el uso de:
 
 <p><b>Breve descripcion:</b><br>
 El programa pide las calificaciones de un alumno y realiza lo siguiente:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-calcula su promedio<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-cuenta cuantas materias reprobo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-cuantas materias aprobo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-calcula el porcentaje de aprovacion<br>
+  <ul>
+    <li>Calcula su promedio</li>
+    <li>Cuenta cuantas materias reprobo</li>
+    <li>Operaciones matemáticas</li>
+    <li>Calcula el porcentaje de aprovacion</li>
+  </ul>
 Se termina de pedir datos cuando se introduzca un numero negativo<br>
 El programa valida que las calificaciones sean validas (0-10)
 </p>
